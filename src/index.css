@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: 'Nanum Gothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'HancomUljuBangudae';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205-2@1.0/HancomUljuBangudae.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 100;
+  src: url("asset/font/NanumGothicLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 400;
+  src: url("asset/font/NanumGothic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 700;
+  src: url("asset/font/NanumGothicBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-weight: 800;
+  src: url("asset/font/NanumGothicExtraBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 100;
+  src: url("asset/font/Poppins-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 200;
+  src: url("asset/font/Poppins-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 300;
+  src: url("asset/font/Poppins-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 400;
+  src: url("asset/font/Poppins-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 500;
+  src: url("asset/font/Poppins-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 600;
+  src: url("asset/font/Poppins-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 700;
+  src: url("asset/font/Poppins-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 800;
+  src: url("asset/font/Poppins-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 900;
+  src: url("asset/font/Poppins-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Muli';
+  src: url("https://use.typekit.net/geh3mei.css");
+  font-weight: 700;
+  font-style: normal;
+}
